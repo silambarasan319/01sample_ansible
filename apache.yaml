@@ -1,0 +1,4 @@
+---
+ - name: Installating apache server
+   hosts: 
+	

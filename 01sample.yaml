@@ -1,0 +1,6 @@
+---
+- name: Apache Server Configuration
+  hosts: salem
+  roles:
+  - apache
+...

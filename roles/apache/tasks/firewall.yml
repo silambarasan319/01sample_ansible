@@ -1,0 +1,3 @@
+---
+- name: Allow service in Firewall
+  firewalld: service=http state=enabled immediate=yes permanent=yes
